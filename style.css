@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0f4210;
+    padding: 10px;
+    color: #15d61c;
+}
+
+header a {
+    color: #15d61c
+}
+h1 {
+    color: #4d630e;
+    background: #7ba113;
+    border-radius: 10px;
+    text-align: center
+}
+
+footer p {  
+    background-color: #31614f;
+    height: 35px;
+}
+.fireworks{
+  background-color:#93e087;
+  border-radius: 20px;
+}
+
+
